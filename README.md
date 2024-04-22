@@ -24,3 +24,5 @@ O aplicativo utiliza a API do ChatGPT para tentar analisar e classificar o conte
 ##  Imagens e vídeo demonstrativo
 
 https://gamma.app/docs/Debato-O-Aplicativo-para-discussoes-oij5w2iimx3carv
+
+.
